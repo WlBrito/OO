@@ -1,0 +1,5 @@
+entity\Conta_Pagar.class
+controllers\ControladorDeContas.class
+com\mycompany\ex04\Ex04.class
+entity\Cliente.class
+controllers\ControladorPessoas.class
